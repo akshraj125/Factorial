@@ -1,7 +1,7 @@
 # Factorial
 Este programa fue realizado para imprimir el factorial de cualquier numero positivo(esta realizado en DEV-C++).
 
-En el metodo main implementamos un ciclo do while el cual se solicita  al usiario introducir los elementos y al final comparamos que el numero ingresado por el usuario sea mayor a cero.
+En el metodo main implementamos un ciclo do while el cual se solicita al usiario introducir los elementos y al final comparamos que el numero ingresado por el usuario sea mayor a cero.
 ![3ed84e03-970d-40a2-92e8-c904851813b4](https://user-images.githubusercontent.com/72090852/94589268-b0160280-024a-11eb-8eb8-6ce31d6a231d.jpg)
 
 se calcula el factorial multiplicando el numero intruducido y repitiendo el metodo factorial hasta que el numero introducido sea igual a uno.
