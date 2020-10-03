@@ -1,4 +1,4 @@
-# Factorial
+# Factorial(A program to find factorials of the number)
 Este programa fue realizado para imprimir el factorial de cualquier número positivo(está realizado en DEV C++).
 
 
